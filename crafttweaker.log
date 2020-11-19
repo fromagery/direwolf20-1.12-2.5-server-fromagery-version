@@ -1,0 +1,141 @@
+[PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: 00_default.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: 01_unification.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: 02_jei.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 4ms
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [recipeevent | crafttweaker]]
+[INITIALIZATION][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: 00_default.zs}
+[INITIALIZATION][SERVER][INFO] Altering Casting Recipe(s) for <ic2:resource:10>
+[INITIALIZATION][SERVER][INFO] Altering Casting Recipe(s) for <chisel:blockcobalt>
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <tconstruct:toolforge>: Can be made from any metal block
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <ic2:misc_resource:3>: Keep out of reach of Soaryns
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: 01_unification.zs}
+[INITIALIZATION][SERVER][INFO] Trying to remove Crafting Table recipes for kind: plate
+[INITIALIZATION][SERVER][INFO] Removing Crusher Recipe for output: Black Quartz
+[INITIALIZATION][SERVER][INFO] Adding Crusher Recipe for Crushed Black Quartz
+[INITIALIZATION][SERVER][INFO] Adding Block of Charcoal to ore dictionary entry blockCharcoal
+[INITIALIZATION][SERVER][INFO] Adding Crusher Recipe for Dimensional Shard
+[INITIALIZATION][SERVER][INFO] Adding Crusher Recipe for Dimensional Shard
+[INITIALIZATION][SERVER][INFO] Adding Crusher Recipe for Dimensional Shard
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: 02_jei.zs}
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <appliedenergistics2:facade>.withTag({damage: 0, item: "minecraft:stone"}): Check item description using JEI recipe lookup for information on crafting.
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 1377ms
+[POSTINITIALIZATION][SERVER][INFO] Adding Grinder Entry for Charged Certus Quartz Crystal
+[POSTINITIALIZATION][SERVER][INFO] Removing Shapeless recipes for <actuallyadditions:item_misc:5>
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Shapeless recipes.
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "thermalfoundation:quartz"
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Bread with name ct_shaped-1765710719
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Leather Cap with name ct_shaped797949369
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Leather Tunic with name ct_shaped781172760
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Leather Pants with name ct_shaped-2057233743
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Leather Boots with name ct_shaped-1517356169
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Stick with name ct_shaped649496343
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Chest with name ct_shaped-2093490674
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Hopper with name ct_shaped-1702160055
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Frame with name ct_shaped-1393274575
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Iron Plate with name ct_shapeless-1732241319
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Iron Plate with name ct_shapeless-1501550829
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Plate with name ct_shaped2134026432
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Plate with name ct_shaped542904622
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Gold Plate with name ct_shapeless-1430029792
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Gold Plate with name ct_shapeless-1271257300
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Gold Plate with name ct_shaped671239145
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Gold Plate with name ct_shaped-472655847
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Copper Plate with name ct_shapeless388685568
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Copper Plate with name ct_shapeless678985292
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Copper Plate with name ct_shaped1444274629
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Copper Plate with name ct_shaped-2040683421
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Tin Plate with name ct_shapeless228452241
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Tin Plate with name ct_shapeless112494299
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Tin Plate with name ct_shaped851615264
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Silver Plate with name ct_shapeless-27416374
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Silver Plate with name ct_shapeless237552578
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Silver Plate with name ct_shaped1823005651
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Silver Plate with name ct_shaped2112255244
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Lead Plate with name ct_shapeless1469016634
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Lead Plate with name ct_shapeless174899282
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lead Plate with name ct_shaped26619781
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lead Plate with name ct_shaped382885614
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Aluminum Plate with name ct_shapeless-1091766923
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Aluminum Plate with name ct_shapeless306024823
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Aluminum Plate with name ct_shaped523354146
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Aluminum Plate with name ct_shaped-1346484016
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Nickel Plate with name ct_shapeless1095687178
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Nickel Plate with name ct_shapeless-1589725054
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Nickel Plate with name ct_shaped52351641
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Nickel Plate with name ct_shaped1333630254
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Platinum Plate with name ct_shapeless-202696825
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Platinum Plate with name ct_shapeless-1798979675
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Platinum Plate with name ct_shaped320273528
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Iridium Plate with name ct_shapeless-390653581
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Iridium Plate with name ct_shapeless-764883143
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iridium Plate with name ct_shaped-805235346
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Mana Infused Plate with name ct_shapeless-510213140
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Mana Infused Plate with name ct_shapeless323291872
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Mana Infused Plate with name ct_shaped-1516422795
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Steel Plate with name ct_shapeless1230863293
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Steel Plate with name ct_shapeless-775418833
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Steel Plate with name ct_shaped-1574306708
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Steel Plate with name ct_shaped-1294640892
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Electrum Plate with name ct_shapeless-1394815138
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Electrum Plate with name ct_shapeless884939694
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Electrum Plate with name ct_shaped-1541575261
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Electrum Plate with name ct_shaped1270956774
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Invar Plate with name ct_shapeless-1405607032
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Invar Plate with name ct_shapeless-1031552316
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Invar Plate with name ct_shaped-1006084155
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Bronze Plate with name ct_shapeless-911427715
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Bronze Plate with name ct_shapeless1551927407
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Bronze Plate with name ct_shaped1423043750
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Constantan Plate with name ct_shapeless985822533
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Constantan Plate with name ct_shapeless-1853015129
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Constantan Plate with name ct_shaped1632850160
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Constantan Plate with name ct_shaped435073482
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Signalum Plate with name ct_shapeless-289585451
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Signalum Plate with name ct_shapeless46926871
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Signalum Plate with name ct_shaped-2027995582
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Lumium Plate with name ct_shapeless-1875422441
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Lumium Plate with name ct_shapeless-1810471403
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lumium Plate with name ct_shaped-1937465082
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Enderium Plate with name ct_shapeless511328762
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Enderium Plate with name ct_shapeless1512120466
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Enderium Plate with name ct_shaped-1349877685
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Brass Plate with name ct_shapeless1222748865
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Brass Plate with name ct_shapeless786495915
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Brass Plate with name ct_shaped523616080
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Thaumium Plate with name ct_shapeless927075964
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Thaumium Plate with name ct_shapeless964264528
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Thaumium Plate with name ct_shaped249483779
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Void Metal Plate with name ct_shapeless511254691
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Void Metal Plate with name ct_shapeless-337936887
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Void Metal Plate with name ct_shaped1666957580
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Bronze Ingot with name ct_shapeless31874981
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <rftools:dimensional_shard_ore>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <rftools:dimensional_shard_ore:1>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <rftools:dimensional_shard_ore:2>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <appliedenergistics2:quartz_ore>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <appliedenergistics2:charged_quartz_ore>
+[AVAILABLE][SERVER][INFO] Altering RedstoneFurnace Recipe(s) for <thermalfoundation:material:768>
+[AVAILABLE][SERVER][INFO] Altering Compactor Recipe(s) for <ic2:crafting:17> in mode: ALL
+[AVAILABLE][SERVER][INFO] Altering Casting Recipe(s) for <tconstruct:metal>
+[AVAILABLE][SERVER][INFO] Altering Crusher Recipe(s) for <actuallyadditions:item_dust:7> * 2
+[AVAILABLE][SERVER][INFO] Altering Crusher Recipe(s) for <actuallyadditions:item_dust:7>
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@3ddc7b2f"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@6a69fc52"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@344e81c8"
+[AVAILABLE][SERVER][INFO] Altering Crusher Recipe(s) for <rftools:dimensional_shard> * 3
+[AVAILABLE][SERVER][INFO] Altering Crusher Recipe(s) for <rftools:dimensional_shard> * 3
+[AVAILABLE][SERVER][INFO] Altering Crusher Recipe(s) for <rftools:dimensional_shard> * 3
+[AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <rftools:dimensional_shard> * 3
+[AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <rftools:dimensional_shard> * 3
+[AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <rftools:dimensional_shard> * 3
+[AVAILABLE][SERVER][INFO] Altering RedstoneFurnace Recipe(s) for <rftools:dimensional_shard>
+[AVAILABLE][SERVER][INFO] Altering RedstoneFurnace Recipe(s) for <rftools:dimensional_shard>
+[AVAILABLE][SERVER][INFO] Altering RedstoneFurnace Recipe(s) for <rftools:dimensional_shard>
+[AVAILABLE][SERVER][INFO] Altering Forestry Carpenter Recipe(s) for Bronze Ingot
+[AVAILABLE][SERVER][INFO] Altering Forestry Carpenter Recipe(s) for Bronze Ingot
+[AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <appliedenergistics2:material:2>
